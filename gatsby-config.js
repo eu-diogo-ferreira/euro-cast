@@ -12,38 +12,13 @@ const siteMetadata = {
   social: [
     {
       url: `https://twitter.com/`,
-    },
-    {
-      url: `https://behance.com/`,
-    },
-    {
-      url: `https://github.com/`,
-    },
+    },    
     {
       url: `https://instagram.com/`,
     },
     {
-      url: `https://www.linkedin.com/`,
-    },
-    {
-      url: `https://dribbble.com/`,
-    },
-    {
       url: `https://youtube.com`,
-    },
-    {
-      name: 'stackoverflow',
-      url: `https://euro-cast.now.sh`,
-    },
-    {
-      url: `https://digitalocean.com`,
-    },
-    {
-      url: `https://tripadvisor.com`,
-    },
-    {
-      url: `https://notion.so`,
-    },
+    },    
     {
       name: `mailto`,
       url: `mailto:`,
@@ -60,7 +35,7 @@ const plugins = [
       rootPath: "/",
       basePath: "/",
       authorsPage: true,
-      mailchimp: true,
+      mailchimp: false,
       sources: {
         local: true,
         contentful: false,
@@ -76,7 +51,7 @@ const plugins = [
       background_color: `#fff`,
       theme_color: `#fff`,
       display: `standalone`,
-      icon: `src/assets/ARIK.svg`,
+      icon: `src/assets/euro_1.png`,
     },
   },
 ];

@@ -1,8 +1,8 @@
 ---
-title: Teste Podcast 1
+title: Primeiro Podcast - alpha
 author: João Arcanjoleto, Guilherme Rodrigues, Diogo Ferreira
 date: 2020-06-02
-hero: ./images/hero.jpg
+hero: ./images/banner_1.png
 excerpt: descrição do teste.
 ---
 
@@ -10,7 +10,7 @@ excerpt: descrição do teste.
 
 # 
 
-<iframe width="560" height="400" src="https://www.youtube.com/embed/QNJL6nfu__Q?autoplay=1;mute=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="400" width="70%" src="https://www.youtube.com/embed/QNJL6nfu__Q?autoplay=1;mute=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #
 
@@ -26,7 +26,7 @@ Bibliografia ou documentos de apoio ao PDF
 
 ###### H6
 
-## Emphasis
+## Rascunhos de apoio de estilização
 
 Emphasis, aka italics, with _asterisks_ or _underscores_.
 

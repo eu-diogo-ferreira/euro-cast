@@ -1,5 +1,6 @@
 import React from 'react';
-import LogoCast from './logo.svg';
+import LogoCast from './euro_1.svg';
+
 /**
  * Paste in your SVG logo and return it from this component.
  * Make sure you have a height set for your logo.
