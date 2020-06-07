@@ -1,6 +1,6 @@
 - name: Diogo Ferreira
   bio: |
-    Arik Bartzadok
+    Desenvolvedor da platadorma
   avatar: ./avatars/diogo.png
   featured: true
   social:
@@ -12,7 +12,7 @@
 - name: Guilherme Rodrigues
   bio: |
     Doutorando em Geografia
-  avatar: ./avatars/guilherme.png
+  avatar: ./avatars/diogo.png
   featured: true
   social:
     - url: https://unsplash.com
@@ -24,7 +24,7 @@
 - name: João Arcanjoleto
   bio: |
     Mestre em Alquimia
-  avatar: ./avatars/arcanjo.png
+  avatar: ./avatars/diogo.png
   featured: true
   social:
     - url: https://unsplash.com
