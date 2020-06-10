@@ -10,7 +10,7 @@ excerpt: descrição do teste.
 
 # 
 
-<iframe height="400" width="70%" src="https://youtu.be/b_Su890OpWw?autoplay=1;mute=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b_Su890OpWw?rel=0&amp;controls=1&amp;showinfo=0;autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #
 
@@ -19,6 +19,10 @@ Bibliografia ou documentos de apoio ao Podcast
 Todo o conteúdo abaixo serve apenas para fins de desenvolvimento, portanto não estará presente na versão final do podcast.
 
 ## Rascunhos
+
+?rel=0&amp;controls=0&amp;showinfo=0;autoplay=1&mute=1
+
+?autoplay=1;mute=0
 
 ### H3
 
