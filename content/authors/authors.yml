@@ -7,12 +7,13 @@
     - url: https://instagram.com/dhiogo_fer
     - url: https://twitter.com/dhiogo_fer
     - url: https://github.com/ArikBartzadok
+    - url: https://www.linkedin.com/in/diogo-ferreira-5b06771a3/
     - url: mailto:diogo.santos134@etec.sp.gov.br
 
 - name: Guilherme Rodrigues
   bio: |
     Doutorando em Geografia
-  avatar: ./avatars/diogo.png
+  avatar: ./avatars/guilherme.png
   featured: true
   social:
     - url: https://unsplash.com
@@ -23,8 +24,52 @@
     
 - name: João Arcanjoleto
   bio: |
-    Mestre em Alquimia
-  avatar: ./avatars/diogo.png
+    Mestre em Alquimia e Professor de Química
+  avatar: ./avatars/arcanjo.png
+  featured: true
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://twitter.com/
+    - url: mailto:myem@il.com
+    
+- name: João Vitor Eugênio
+  bio: |
+    Técnico em Informática
+  avatar: ./avatars/eugenio.png
+  featured: true
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://twitter.com/
+    - url: mailto:myem@il.com
+    
+- name: João Cadoni Negri
+  bio: |
+    Técnico em Informática
+  avatar: ./avatars/cadoni.png
+  featured: true
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://twitter.com/
+    - url: mailto:myem@il.com
+    
+- name: Pedro Ferreira Alves
+  bio: |
+    Técnico em Informática
+  avatar: ./avatars/pedro.png
+  featured: true
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://twitter.com/
+    - url: mailto:myem@il.com
+    
+- name: Henrique Cipriano Alnselmo
+  bio: |
+    Técnico em Informática
+  avatar: ./avatars/alsemo.png
   featured: true
   social:
     - url: https://unsplash.com

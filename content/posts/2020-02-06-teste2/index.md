@@ -1,18 +1,19 @@
 ---
 title: Primeiro Podcast - alpha
-author: João Arcanjoleto, Guilherme Rodrigues, Diogo Ferreira
+author: João Arcanjoleto, Guilherme Rodrigues, Diogo Ferreira, João Vitor Eugênio, João Cadoni Negri, Pedro Ferreira Alves, Henrique Cipriano Alnselmo
 date: 2020-06-02
 hero: ./images/banner_1.png
 excerpt: descrição do teste.
 ---
 
-## Teste de áudio 3D
+## Teste de áudio
 
 # 
 
-<iframe width="70%" height="300" src="https://www.youtube.com/embed/b_Su890OpWw?rel=0&amp;controls=1&amp;showinfo=0;autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="70%" height="300" src="https://www.youtube.com/embed/v2AC41dglnM?rel=0&amp;controls=1&amp;showinfo=0;autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #
+
 
 Bibliografia ou documentos de apoio ao Podcast
 

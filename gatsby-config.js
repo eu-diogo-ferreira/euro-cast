@@ -11,17 +11,20 @@ const siteMetadata = {
   },
   social: [
     {
-      url: `https://twitter.com/`,
+      url: `https://www.facebook.com/etecmogiguacu1/`,
     },    
     {
-      url: `https://instagram.com/`,
+      url: `https://instagram.com/etecmogiguacu/`,
     },
     {
-      url: `https://youtube.com`,
-    },    
+      url: `https://www.linkedin.com/company/etecmogiguacu/`,
+    },      
+    {
+      url: `https://youtube.com/channel/UC9i--cjsUpEZBKD2mRpCqyg`,
+    },  
     {
       name: `mailto`,
-      url: `mailto:`,
+      url: `mailto:e206acad@cps.sp.gov.br`,
     },
   ],
 };
