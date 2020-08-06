@@ -1,9 +1,9 @@
 ---
-title: Estreia - 1° ep.
+title: Estreia - 1° ep
 author: João Arcanjoleto, Guilherme Rodrigues, Diogo Ferreira, João Vitor Eugênio, João Cadoni Negri, Pedro Ferreira Alves, Henrique Cipriano Alnselmo
 date: 2020-08-08
 hero: ./images/banner_1.png
-excerpt: Transposição do Rio São Francisco.
+excerpt: Transposição do Rio São Francisco
 ---
 
 # Transposição do Rio São Francisco
