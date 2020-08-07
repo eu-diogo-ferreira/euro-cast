@@ -2,7 +2,7 @@
 title: Estreia - 1° Ato
 author: João Arcanjoleto, Guilherme Rodrigues, Diogo Ferreira, João Vitor Eugênio, João Henrique Cadoni Negri, Pedro Ferreira Alves, Henrique Cipriano Alnselmo
 date: 2020-08-08
-hero: ./images/banner_1.png
+hero: ./images/teste2.png
 excerpt: Transposição do Rio São Francisco
 ---
 
