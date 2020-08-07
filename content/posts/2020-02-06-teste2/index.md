@@ -1,6 +1,6 @@
 ---
-title: Estreia - 1° ep
-author: João Arcanjoleto, Guilherme Rodrigues, Diogo Ferreira, João Vitor Eugênio, João Cadoni Negri, Pedro Ferreira Alves, Henrique Cipriano Alnselmo
+title: Estreia - 1° Ato
+author: João Arcanjoleto, Guilherme Rodrigues, Diogo Ferreira, João Vitor Eugênio, João Henrique Cadoni Negri, Pedro Ferreira Alves, Henrique Cipriano Alnselmo
 date: 2020-08-08
 hero: ./images/banner_1.png
 excerpt: Transposição do Rio São Francisco
@@ -9,11 +9,20 @@ excerpt: Transposição do Rio São Francisco
 # Transposição do Rio São Francisco
 
 
-<iframe width="70%" height="300" src="https://www.youtube.com/embed/v2AC41dglnM?rel=0&amp;controls=1&amp;showinfo=0;autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Em breve, o melhor conteúdo para você! Aguarde …
+
+
+<div className="Image__Small">
+  <img
+    src="./images/espera.png"
+    title="Aziz Ab'Saber"
+    alt="Cientista Aziz Ab'Saber"
+  />
+</div>
 
 ---
 
-> "Além do mundo físico e ecológico, é absolutamente necessário
+"Além do mundo físico e ecológico, é absolutamente necessário
 realizar estudos básicos sobre a projeção da sociedade sertaneja
 sobre o espaço total da área reconhecida como Polígono das Secas,
 e identificar os problemas enfrentados pelas comunidades residentes
