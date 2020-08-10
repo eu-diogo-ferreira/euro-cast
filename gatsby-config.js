@@ -4,9 +4,9 @@ const siteMetadata = {
   title: `Euro Cast`,
   name: `Euro-Cast`,
   siteUrl: `https://euro-cast.now.sh`,
-  description: `Site de podcasts com o maior contexto científico do universo!`,
+  description: `Euro-Cast, difundindo o conhecimento científico!`,
   hero: {
-    heading: `Euro-Cast, o seu Podcast!`,
+    heading: `Euro-Cast, difundindo o conhecimento científico!`,
     maxWidth: 652,
   },
   social: [
