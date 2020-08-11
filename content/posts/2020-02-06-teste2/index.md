@@ -8,19 +8,13 @@ excerpt: Transposição do Rio São Francisco
 
 # Transposição do Rio São Francisco
 
+<iframe width="70%" height="300" src="https://www.youtube.com/embed/qFsDqq8qLQE?rel=0&amp;controls=1&amp;showinfo=0;autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Em breve, o melhor conteúdo para você! Aguarde …
-
-
-<div className="Image__Small">
-  <img
-    src="./images/espera.png"
-    title="Banner - espera"
-    alt="banner"
-  />
-</div>
+### O Projeto de Integração do Rio São Francisco com Bacias Hidrográficas do Nordeste Setentrional
 
 ---
+
+Neste primeiro ato, será realizada uma análise e discussão acerca de uma das maiores obras de engenharia do Brasil, idealizada ainda durante o reinado de D. Pedro II, o Projeto de Integração do Rio São Francisco com Bacias Hidrográficas do Nordeste Setentrional, que trás em sua composição diversos problemas sociais e ambientais.
 
 "Além do mundo físico e ecológico, é absolutamente necessário
 realizar estudos básicos sobre a projeção da sociedade sertaneja
@@ -52,3 +46,5 @@ Aziz foi um geógrafo e professor brasileiro , considerado uma das maiores refer
 [A incerteza dos impactos da transposição do Rio São Francisco, da Fundação Joaquim Nabuco.](https://www.fundaj.gov.br/index.php/transposicao-do-rio-sao-francisco/11594-com-mais-de-90-da-transposicao-concluida-impactos-ambientais-no-rio-sao-francisco-ainda-sao-incertos "Fundação Joaquim Nabuco")
 
 [Relatorio de impacto ambiental do Ministério da Integração Nacional.](https://web.archive.org/web/20111130061526/http://www.integracao.gov.br/saofrancisco/integracao/rima.asp)
+
+_Etec Euro Albino de Souza, Mogi Guaçu, São Paulo, Brasil._
