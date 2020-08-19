@@ -1,9 +1,9 @@
 ---
-title: Estreia - Ato II
+title: Estreia TRSF - Ato II
 author: João Arcanjoleto, Guilherme Rodrigues, Diogo Ferreira, João Vitor Eugênio, João Henrique Cadoni Negri, Pedro Ferreira Alves, Henrique Cipriano Alnselmo
 date: 2020-08-19
 hero: ./images/TRSFII.png
-excerpt: Transposição do Rio São Francisco
+excerpt: Transposição do Rio São Francisco - Relação dos impactos sociais e ambientais (RIMA), divulgados pelo Ministério da Integração Nacional.
 ---
 
 # Transposição do Rio São Francisco

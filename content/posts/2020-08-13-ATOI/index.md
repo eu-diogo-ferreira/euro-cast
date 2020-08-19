@@ -1,9 +1,9 @@
 ---
-title: Estreia - Ato I
+title: TRSF - Ato I
 author: João Arcanjoleto, Guilherme Rodrigues, Diogo Ferreira, João Vitor Eugênio, João Henrique Cadoni Negri, Pedro Ferreira Alves, Henrique Cipriano Alnselmo
 date: 2020-08-08
 hero: ./images/TRSFI.png
-excerpt: Transposição do Rio São Francisco
+excerpt: Transposição do Rio São Francisco - Uma análise acerca dos problemas sociais e ambientais
 ---
 
 # Transposição do Rio São Francisco
