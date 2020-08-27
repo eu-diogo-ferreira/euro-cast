@@ -1,5 +1,5 @@
 ---
-title: Estreia TRSF - Ato II
+title: TRSF - Ato II
 author: João Arcanjoleto, Guilherme Rodrigues, Diogo Ferreira, João Vitor Eugênio, João Henrique Cadoni Negri, Pedro Ferreira Alves, Henrique Cipriano Alnselmo
 date: 2020-08-19
 hero: ./images/TRSFII.png
