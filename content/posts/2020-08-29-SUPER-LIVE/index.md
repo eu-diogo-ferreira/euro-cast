@@ -11,14 +11,10 @@ excerpt: Super Live repondendo perguntas frequentes sobre vestibulares e vivênc
 
 Em breve, o melhor conteúdo para você!
 
+Agende a Live!
 
-<div className="Image__Small">
-  <img
-    src="./images/EUII.png"
-    title="Super Live, dia 29 de Agosto"
-    alt="Super Live"
-  />
-</div>
+<iframe width="70%" height="300" src="https://www.youtube.com/embed/j3K9p0_HHiM?rel=0&amp;controls=1&amp;showinfo=0;autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ### Saiba +
