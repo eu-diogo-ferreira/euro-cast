@@ -35,7 +35,7 @@ Todas as suas maiores dúvidas respondidas, em um só local!
 
 [Site do INEP.](https://enem.inep.gov.br/)
 
-[Descomplica, tuod sobre o ENEM.](https://descomplica.com.br/tudo-sobre-enem/enem/o-que-e-o-enem/)
+[Descomplica, tudo sobre o ENEM.](https://descomplica.com.br/tudo-sobre-enem/enem/o-que-e-o-enem/)
 
 [Guia de carreira, tudo sobre o PROUNI.](https://www.guiadacarreira.com.br/educacao/enem/prouni/)
 
